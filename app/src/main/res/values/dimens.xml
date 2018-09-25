@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--*<글씨 사이즈>*-->
+    <dimen name="txt_hugetitle">48sp</dimen>
+    <dimen name="txt_bigtitle">30sp</dimen>
+    <dimen name="txt_title">24sp</dimen>
+    <dimen name="txt_stitle">20sp</dimen>
+    <dimen name="txt_toolbar">19sp</dimen>
+    <dimen name="txt_text">14sp</dimen>
+    <dimen name="txt_stext">12sp</dimen>
+    <dimen name="txt_tiny">10sp</dimen>
+
+    <!--*<패딩/마진>*-->
+    <dimen name="huge_padding">48dp</dimen>
+    <dimen name="bigger_padding">32dp</dimen>
+    <dimen name="big_padding">24dp</dimen>
+    <dimen name="normal_padding">16dp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="tiny_padding">4dp</dimen>
+
+    <!--*<아이콘>*-->
+    <dimen name="small_icon">16dp</dimen>
+    <dimen name="normal_icon">24dp</dimen>
+    <dimen name="big_icon">48dp</dimen>
+    <dimen name="bigger_icon">56dp</dimen>
+
+    <!--*<프로필 이미지>*-->
+    <dimen name="thumb_prof">24?28?dp</dimen>
+</resources>
